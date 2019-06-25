@@ -7,5 +7,4 @@ class Ts < Formula
   def install
 	bin.install "ts"
   end
-
 end
